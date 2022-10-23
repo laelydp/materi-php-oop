@@ -1,5 +1,5 @@
 <?php
-    class Ape {
+    class Ape extends Animal{
         public $name;
         public $legs;
         public $cold_blooded;
