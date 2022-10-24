@@ -1,9 +1,9 @@
 <?php
-    @include('animal.php');
+    require('animal.php');
     echo "<br>";
     echo "<br>";
-    @include('ape.php');
+    require('ape.php');
     echo "<br>";
-    @include('frog.php');
+    require('frog.php');
     
 ?>
